@@ -9,8 +9,6 @@ Welcome to my GitHub playground! 🎉 I'm a passionate software engineer with a 
 🌟 About Me <br>
 I hold a Master of Science degree in Information Systems from Northeastern University, Boston 🎓 and a Bachelor of Engineering degree in Computer Science from SIES Graduate School of Technology, Mumbai University, India 🚀. With a blend of theoretical knowledge and hands-on experience, I'm ready to tackle exciting challenges head-on!
 
-💻 Skills
-
 💼 Experience <br>
 Newgen Software
 Software Engineer
