@@ -9,8 +9,8 @@
   🔭 I am currently honing my skills in full stack development<br>
   🌱 Feel free to reach out for collaboration<br> 
   💌 shrutitambe06@gmail.com <br> 
-  🐝 Fun Fact: I draw and paint. One day I want to setup my art gallery.
-  📊 <a href = "https://tambeshruti.github.io/data-science-portfolio/">My Data Science Portfolio</a>
+  🐝 Fun Fact: I draw and paint. One day I want to setup my art gallery. <br>
+  🎢 <a href = "https://tambeshruti.github.io/data-science-portfolio/">My Data Science Portfolio</a>
 
   </div>
 <br>
