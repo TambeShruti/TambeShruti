@@ -6,11 +6,11 @@
 
 <div align = "left">
   👀 &ensp; I am a software engineer and a data science enthusiast<br>
-  🔭  I am currently honing my skills in full stack development<br>
-  🌱  Feel free to reach out for collaboration<br> 
-  💌  shrutitambe06@gmail.com <br> 
-  🐝  Fun Fact: I draw and paint. One day I will setup my art gallery. <br>
-  🎢  <a href = "https://tambeshruti.github.io/data-science-portfolio/">My Data Science Portfolio</a>
+  🔭 &ensp; I am currently honing my skills in full stack development<br>
+  🌱 &ensp; Feel free to reach out for collaboration<br> 
+  💌 &ensp; shrutitambe06@gmail.com <br> 
+  🐝 &ensp; Fun Fact: I draw and paint. One day I will setup my art gallery. <br>
+  🎢 &ensp; <a href = "https://tambeshruti.github.io/data-science-portfolio/">My Data Science Portfolio</a>
 
   </div>
 <br>
