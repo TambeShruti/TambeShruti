@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUfE2Y3i/giphy.gif" alt="Hello GIF" width="300"/>
+![Alt Text](git.gif)
+
 </div>
 👋 Hello, I'm Shruti Tambe! <br>
 Welcome to my GitHub playground! 🎉 I'm a passionate software engineer with a knack for crafting elegant solutions and delightful user experiences.
