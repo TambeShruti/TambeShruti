@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Alt Text]([https://github.com/TambeShruti/TambeShruti/blob/main/git.gif](https://github.com/TambeShruti/TambeShruti/blob/main/cat.gif))
+![Alt Text](https://github.com/TambeShruti/TambeShruti/blob/main/cat.gif)
 
 </div>
 👋 Hello, I'm Shruti Tambe! <br>
