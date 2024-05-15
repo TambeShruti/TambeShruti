@@ -25,20 +25,7 @@
 
 <br>
 
-## 👩‍💻 Tech Stack
-### Languages and tools I work with
-<div>
-<img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="55" alt="cpp" src="images/534-5342172_c-language-course-c-logo-removebg-preview (1).png">
-<img width="75" alt="git" src="./images/git-removebg-preview.png">
-<img height="48" alt="sql" src="./images/sql2-compressed-1-removebg-preview.png">
-<img height="50" alt="c" src="https://fekir.info/img/c-logo.png">
-<img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
-<img height="53" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
-<img height="45" alt="js" src="./images/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files-removebg-preview.png">
-<img height="60" alt="Java" src="./images/pnghut_java-programmer-computer-programming-logo-language.png">
 </div>
-
 
 
 </div>
