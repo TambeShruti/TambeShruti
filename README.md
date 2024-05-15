@@ -6,10 +6,10 @@
 
 <div align = "left">
   👀 I am a software engineer and a data science enthusiast<br>
-  🤖 Currently working on a full stack project<br>
-  🫂 Feel free to reach out for collaboration<br> 
-  📫 shrutitambe06@gmail.com <br> 
-  🕸️ <a href = "https://tambeshruti.github.io/data-science-portfolio/">My Data Science Portfolio</a>
+  🐝 Currently working on a full stack project<br>
+  🍀 Feel free to reach out for collaboration<br> 
+  💌 shrutitambe06@gmail.com <br> 
+  📊 <a href = "https://tambeshruti.github.io/data-science-portfolio/">My Data Science Portfolio</a>
 
   </div>
 <br>
