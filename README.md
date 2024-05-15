@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=C5CFF7&background=FFFFFF00&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;Data-driven+problem+solver)](https://git.io/typing-svg)
 
 <div align = "left">
-  👀  I am a software engineer and a data science enthusiast<br>
+  👀 &ensp; I am a software engineer and a data science enthusiast<br>
   🔭  I am currently honing my skills in full stack development<br>
   🌱  Feel free to reach out for collaboration<br> 
   💌  shrutitambe06@gmail.com <br> 
