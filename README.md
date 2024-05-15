@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-![Alt Text](git.gif)
+![Alt Text](https://github.com/TambeShruti/TambeShruti/blob/main/git.gif)
 
 </div>
 👋 Hello, I'm Shruti Tambe! <br>
